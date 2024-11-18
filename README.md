@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe918a90-5452-4ae5-b958-fac0e0731ca8)### Hands-on Activity: COMMIT HUNT
+### Hands-on Activity: COMMIT HUNT
 
 To successfully complete the activity, attendees must perform the following steps:
 
