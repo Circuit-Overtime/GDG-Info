@@ -73,3 +73,4 @@ To successfully complete the activity, attendees must perform the following step
 - Run the main.cpp & note down the secret message. 
 - The branch name must match your roll number.
 - The pull request must not have merge conflicts with the main branch.
+- Upload the noted secret message at this form https://forms.gle/vZUjYQtQkCQYieu78 for your attendance.
